@@ -16,6 +16,19 @@ Your journey to meaningful professional growth starts here.
 - [@zaktech96](https://www.github.com/zaktech96) - Frontend Engineer
 - [@EpicIbby101](https://www.github.com/EpicIbby101) - Frontend Engineer
 
+## Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vercel
+- ShadCN UI Kit
+
+## Architecture
+
+![SVG Image](arch-overview.svg)
+
+
 ## Prerequisites
 
 Node - 20.10.0 LTS
