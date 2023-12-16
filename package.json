@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --check --ignore-path .gitignore .",
-    "format:fix": "prettier --write --ignore-path .gitignore ."
+    "format": "prettier --check --config .prettierrc.json .",
+    "format:fix": "prettier --write --config .prettierrc.json ."
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
