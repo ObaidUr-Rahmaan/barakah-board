@@ -80,6 +80,8 @@ Worth watching - https://youtu.be/Cd-gBxzcsdA - Difference between Prettier and 
 
 [//]: # (TODO: Add tests)
 
+TODO
+
 ## Deployment
 
 Deployments for this project are automated using Vercel's CI pipeline. DevOps knowledge is not required to be productive
