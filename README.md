@@ -28,7 +28,6 @@ Your journey to meaningful professional growth starts here.
 
 ![SVG Image](arch-overview.svg)
 
-
 ## Prerequisites
 
 Node - 20.10.0 LTS
@@ -91,7 +90,7 @@ Worth watching - https://youtu.be/Cd-gBxzcsdA - Difference between Prettier and 
 
 ## Running Tests
 
-[//]: # (TODO: Add tests)
+[//]: # 'TODO: Add tests'
 
 TODO
 
