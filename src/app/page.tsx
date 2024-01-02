@@ -2,8 +2,9 @@ import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className='flex min-h-screen flex-col items-center justify-between p-24'>
-      <div className='text-5xl font-bold'>Barakah Board Landing Page</div>
+    <main className='flex items-center justify-center min-h-screen p-24'>
+      <div className='text-3xl font-bold'>Barakah Board</div>
     </main>
   );
 }
+
